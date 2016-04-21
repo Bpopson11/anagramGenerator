@@ -2,7 +2,7 @@
 
 #### _This is a PHP based app using Silex and Twig to create an app that produces anagrams based on user input._
 
-#### By _**Brianna Popson**_
+#### By _**Brianna Popson and Erik Tolentino**_
 
 ## Description
 
